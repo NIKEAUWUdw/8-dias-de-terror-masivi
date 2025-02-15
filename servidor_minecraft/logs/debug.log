@@ -11253,3 +11253,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Feb2025 15:48:18.286] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config hangman-server.toml' to 'fml:handshake' sequence 40
 [15Feb2025 15:48:18.336] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 41
 [15Feb2025 15:48:22.691] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d94bc66[id=<null>,name=Nike_N,properties={},legacy=false] (/127.130.16.149:38621) lost connection: Disconnected
+[15Feb2025 15:51:50.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 15:51:50.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 15:56:50.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 15:56:50.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

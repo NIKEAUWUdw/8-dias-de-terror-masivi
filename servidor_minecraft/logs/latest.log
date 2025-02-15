@@ -9798,3 +9798,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [15Feb2025 04:25:27.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Applied enchantment Unbreaking III to Nike_N's item]
 [15Feb2025 04:25:34.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Applied enchantment Mending to Nike_N's item]
 [15Feb2025 04:25:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Applied enchantment Fortune III to Nike_N's item]
+[15Feb2025 04:27:21.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Spectator Mode]
+[15Feb2025 04:27:46.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:27:57.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Spectator Mode]
+[15Feb2025 04:28:05.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Teleported Nike_N to DumxJP7]
+[15Feb2025 04:28:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:28:32.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Applied enchantment Sharpness V to Nike_N's item]
+[15Feb2025 04:29:51.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Spectator Mode]
+[15Feb2025 04:30:05.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:30:06.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[15Feb2025 04:30:34.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Spectator Mode]
+[15Feb2025 04:30:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:30:46.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yertaaaa has made the advancement [Isn't It Iron Pick]
+[15Feb2025 04:32:07.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Spectator Mode]
+[15Feb2025 04:32:10.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:32:39.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yertaaaa was slain by Cave Dweller
+[15Feb2025 04:32:39.170] [Server thread/INFO] [tombstone/]: The player yertaaaa has successfully been saved
+[15Feb2025 04:32:46.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Teleported yertaaaa to Nike_N]
+[15Feb2025 04:33:48.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Spectator Mode]
+[15Feb2025 04:33:49.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:33:52.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Creative Mode]
+[15Feb2025 04:34:19.908] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[15Feb2025 04:34:44.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:34:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Spectator Mode]
+[15Feb2025 04:35:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:35:56.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Creative Mode]
+[15Feb2025 04:35:58.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:36:16.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already

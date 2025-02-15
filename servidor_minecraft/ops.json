@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "5a48df3c-5dcd-3149-92a9-b5298668b670",
+    "name": "Nike_N",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

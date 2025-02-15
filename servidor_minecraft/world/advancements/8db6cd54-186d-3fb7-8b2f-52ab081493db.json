@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-15 04:09:35 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2025-02-15 03:43:11 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-15 04:12:17 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-02-15 03:44:41 +0000"
@@ -80,6 +92,12 @@
   "man:feelingwatched": {
     "criteria": {
       "feelingwatched_0": "2025-02-15 03:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-15 04:16:23 +0000"
     },
     "done": true
   },
@@ -127,10 +145,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:stony_shore": "2025-02-15 04:03:21 +0000",
       "minecraft:forest": "2025-02-15 03:43:12 +0000",
       "minecraft:jungle": "2025-02-15 03:46:21 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-02-15 04:02:58 +0000"
+    },
+    "done": true
   },
   "placeablesmod:placeables": {
     "criteria": {
@@ -158,7 +183,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "chicken": "2025-02-15 04:01:39 +0000"
+      "chicken": "2025-02-15 04:01:39 +0000",
+      "enchanted_golden_apple": "2025-02-15 04:06:25 +0000"
     },
     "done": false
   },
@@ -180,6 +206,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-15 04:02:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-02-15 03:43:12 +0000"
@@ -189,6 +221,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-02-15 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-15 04:07:30 +0000"
     },
     "done": true
   },

@@ -23,9 +23,27 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-15 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-15 04:40:37 +0000"
     },
     "done": true
   },
@@ -34,6 +52,12 @@
       "has_recipe": "2025-02-15 03:57:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -83,6 +107,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-02-15 04:16:14 +0000"
@@ -92,6 +122,30 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-02-15 03:58:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-02-15 04:52:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-15 04:37:35 +0000"
     },
     "done": true
   },
@@ -137,6 +191,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:stony_shore": "2025-02-15 04:03:37 +0000",
@@ -151,11 +211,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
   "placeablesmod:placeables": {
     "criteria": {
       "placeables": "2025-02-15 03:57:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
   },
   "undead_revamp2:nightnight": {
     "criteria": {
@@ -200,6 +272,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-02-15 03:57:01 +0000"
@@ -241,6 +319,18 @@
       "has_recipe": "2025-02-15 03:57:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-15 04:54:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

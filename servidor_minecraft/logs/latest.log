@@ -9825,3 +9825,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [15Feb2025 04:35:56.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Creative Mode]
 [15Feb2025 04:35:58.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
 [15Feb2025 04:36:16.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[15Feb2025 04:36:57.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Creative Mode]
+[15Feb2025 04:37:35.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DumxJP7 has made the advancement [Acquire Hardware]
+[15Feb2025 04:38:32.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yertaaaa has made the advancement [Diamonds!]
+[15Feb2025 04:38:41.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[15Feb2025 04:40:37.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DumxJP7 has made the advancement [Isn't It Iron Pick]
+[15Feb2025 04:40:46.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DumxJP7> pene de caballo
+[15Feb2025 04:41:17.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DumxJP7> PENE
+[15Feb2025 04:42:13.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:42:18.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yertaaaa was slain by Cave Dweller
+[15Feb2025 04:42:18.126] [Server thread/INFO] [tombstone/]: The player yertaaaa has successfully been saved
+[15Feb2025 04:42:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Teleported yertaaaa to Nike_N]
+[15Feb2025 04:42:36.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Creative Mode]
+[15Feb2025 04:43:03.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:43:17.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Creative Mode]
+[15Feb2025 04:43:26.058] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[15Feb2025 04:43:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Teleported DumxJP7 to Nike_N]
+[15Feb2025 04:43:44.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Spectator Mode]
+[15Feb2025 04:43:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Creative Mode]
+[15Feb2025 04:51:02.458] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[15Feb2025 04:51:06.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:51:13.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Teleported Nike_N to yertaaaa]
+[15Feb2025 04:52:43.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DumxJP7 has reached the goal [Feeling Watched]
+[15Feb2025 04:53:28.007] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[15Feb2025 04:53:34.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Creative Mode]
+[15Feb2025 04:54:24.258] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[15Feb2025 04:54:33.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nike_N: Set own game mode to Survival Mode]
+[15Feb2025 04:54:49.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nike_N lost connection: Disconnected
+[15Feb2025 04:54:49.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nike_N left the game
+[15Feb2025 04:54:55.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DumxJP7 lost connection: Disconnected
+[15Feb2025 04:54:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DumxJP7 left the game
+[15Feb2025 04:55:49.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yertaaaa lost connection: Disconnected
+[15Feb2025 04:55:49.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yertaaaa left the game
